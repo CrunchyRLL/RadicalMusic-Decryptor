@@ -3,7 +3,7 @@
 Open source Rocket League audio ripping for version v.1.95 of the game!
 
 
-![ScreenShot](https://cdn.discordapp.com/attachments/827304461172211737/830097008777232435/8SFtDvl.png) 
+![ScreenShot](https://i.imgur.com/8SFtDvl.jpg) 
 
 
 ## What's working ?
