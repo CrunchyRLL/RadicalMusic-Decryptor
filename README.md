@@ -46,7 +46,7 @@ Open source Rocket League audio ripping for version v.1.95 of the game!
 
 👤 **Raphael** (main developer)
 
-* Github: [@PhoenixFire6879](https://github.com/radicalraphael)
+* Github: [@Raphael](https://github.com/radicalraphael)
 * Discord: Raaphael#6656
 
 Special thanks to:
